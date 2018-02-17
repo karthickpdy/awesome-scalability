@@ -430,7 +430,7 @@ An updated and curated list of selected readings to illustrate Scalability, Avai
 - [ ] [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
 ## Special Thanks
-- [ ] Jonas Bonér, CTO at Lightbend, for the [original inspiration](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
+* Jonas Bonér, CTO at Lightbend, for the [original inspiration](https://www.slideshare.net/jboner/scalability-availability-stability-patterns)
 
 ## License
 
